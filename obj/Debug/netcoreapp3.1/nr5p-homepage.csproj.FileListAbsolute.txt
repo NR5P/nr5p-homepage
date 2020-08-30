@@ -18,3 +18,17 @@
 /home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.dll
 /home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.pdb
 /home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.genruntimeconfig.cache
+/home/nathan/Desktop/nr5p-homepage/bin/Debug/netcoreapp3.1/nr5p-homepage.Views.dll
+/home/nathan/Desktop/nr5p-homepage/bin/Debug/netcoreapp3.1/nr5p-homepage.Views.pdb
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.RazorAssemblyInfo.cache
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.RazorAssemblyInfo.cs
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.TagHelpers.input.cache
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.TagHelpers.output.cache
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.RazorCoreGenerate.cache
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/Razor/Views/BlogPost/ListPosts.cshtml.g.cs
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.RazorTargetAssemblyInfo.cs
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.Views.pdb
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/nr5p-homepage.csproj.CopyComplete
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/nathan/Desktop/nr5p-homepage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs

@@ -1,0 +1,12 @@
+@model IEnumerable<BlogPost>
+
+
+<h1>blog posts</h1>
+@foreach (var post in Model)
+{
+    <div>
+        <h2>@post.id</h2>
+        <h2>@post.title</h2>
+        <h2>@post.body</h2>
+    </div>
+}
