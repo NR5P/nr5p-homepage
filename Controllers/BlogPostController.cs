@@ -16,5 +16,15 @@ namespace nr5p_homepage.Controllers
         {
             return View(_blogData.allPosts);
         } 
+
+        public IActionResult Details(int id)
+        {
+            BlogPost post = _blogData.getBlogPostById(id);
+            if (post == null)
+            {
+                return NotFound();
+            }
+            return View(post);
+        } 
     }
 }
