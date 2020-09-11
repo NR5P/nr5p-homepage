@@ -14,7 +14,7 @@ namespace nr5p_homepage.Controllers
 
         public ViewResult ListPosts()
         {
-            return View(_blogData.allPosts);
+            return View(_blogData.allPosts());
         } 
 
         public IActionResult Details(int id)

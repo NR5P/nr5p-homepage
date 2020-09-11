@@ -17,7 +17,7 @@ namespace nr5p_homepage
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<IBlogData, MockBlogData>();
+            services.AddScoped<IBlogData, dbBlogData>();
             services.AddControllersWithViews();
         }
 
